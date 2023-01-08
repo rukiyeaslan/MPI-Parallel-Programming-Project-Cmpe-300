@@ -1,8 +1,3 @@
-# Student Name: Asude Ebrar Kiziloglu
-# Student Number: 2019400009
-# Compile Status: Compiling
-# Program Status: Working 
-
 import argparse
 from mpi4py import MPI
 
